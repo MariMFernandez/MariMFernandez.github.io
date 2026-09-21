@@ -17,6 +17,7 @@ nav a:hover,.quick-links a:hover,.text-link:hover{color:#6b8f19}
 .eyebrow,.section-label,.year{font-size:11px;font-weight:700;letter-spacing:2px;color:#71716b}
 .hero h1{font:700 clamp(52px,7vw,88px)/.96 "Space Grotesk";letter-spacing:-4px;margin:18px 0 28px;max-width:720px}
 .hero h1 span,h2 span{background:var(--accent);padding:0 7px}
+.hero h1 span{background:linear-gradient(transparent 20%,var(--accent) 20%,var(--accent) 94%,transparent 94%)}
 .lead{font-size:19px;line-height:1.65;color:#5d5d58;max-width:650px}
 .buttons{display:flex;flex-wrap:wrap;gap:12px;margin:32px 0}
 .btn{white-space:nowrap;padding:13px 21px;border-radius:7px;font-weight:700;font-size:14px;border:1px solid var(--ink);transition:.2s}
